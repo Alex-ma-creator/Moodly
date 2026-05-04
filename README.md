@@ -19,7 +19,7 @@
 
 ## 🎬 Video de navegación
 
-[👉 Ver video de demostración](./screenshots/demo.mp4)
+[👉 Ver video de demostración](https://youtu.be/oqYrD4kNkx0)
 
 ---
 
