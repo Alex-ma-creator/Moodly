@@ -1,4 +1,4 @@
-# Moodly 🌱
+# Moodly 
 ### Diario de bienestar emocional para jóvenes universitarios
 
 **Equipo:** [Nombre del equipo]  
